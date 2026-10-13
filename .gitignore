@@ -19,10 +19,6 @@ models/libreface/checkpoints_rafdb/
 # Dataset (do not version raw data)
 data/raf_db/
 
-# Predictions and generated results (optional, remove if you want these tracked)
-predictions/*.csv
-results/plots/*.png
-
 # OS / editor junk
 .DS_Store
 Thumbs.db

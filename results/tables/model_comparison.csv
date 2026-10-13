@@ -1,4 +1,4 @@
 Model,Accuracy (%),Macro F1 (%),Weighted F1 (%),Samples
 Simple Cnn,76.14,65.86,75.8,3068
 Poster V2,92.14,87.31,92.06,3068
-Libreface,85.72,77.58,85.62,3068
+Libreface,85.14,77.29,85.08,3068
