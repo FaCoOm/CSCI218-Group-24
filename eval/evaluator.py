@@ -1,4 +1,6 @@
 """Main Evaluator class for the unified FER evaluation framework."""
+# Author: Minh Quan Dang
+# Date: October 07, 2026
 
 from __future__ import annotations
 from pathlib import Path

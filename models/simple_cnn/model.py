@@ -1,7 +1,7 @@
 """Simple from-scratch CNN baseline for facial expression recognition (RAF-DB, 7 classes)."""
 
-# Author: Minh Quan Dang
-# Created on: 15 May, 2026
+# Author: Chi Quan Luu
+# Created on: 08 Oct, 2026
 
 from __future__ import annotations
 import torch

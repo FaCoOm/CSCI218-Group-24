@@ -6,9 +6,9 @@ All model inference outputs go here in standard CSV format.
 {model_name}.csv
 
 ## Expected Files
-- simple_cnn.csv       (Quan + Phuc)
-- poster_v2.csv        (Trang + Khanh)
-- libreface.csv        (Duy)
+- simple_cnn.csv    
+- poster_v2.csv     
+- libreface.csv  
 
 ## Required CSV Columns
 - `image_path`,

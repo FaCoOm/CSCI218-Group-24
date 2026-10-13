@@ -1,7 +1,7 @@
 """Train SimpleCNN on RAF-DB (train/val split). Saves best checkpoint + logs + curves."""
 
-# Author: Minh Quan Dang
-# Created on: 16 May, 2026
+# Author: Chi Quan Luu
+# Created on: 08 Oct, 2026
 
 from __future__ import annotations
 import argparse

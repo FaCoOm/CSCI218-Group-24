@@ -1,7 +1,7 @@
 """Run inference on the RAF-DB test set and write predictions/simple_cnn.csv."""
 
-# Author: Minh Quan Dang
-# Created on: 17 May, 2026
+# Author: Chi Quan Luu
+# Created on: 08 Oct, 2026
 
 from __future__ import annotations
 import argparse

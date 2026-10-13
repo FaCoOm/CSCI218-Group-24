@@ -4,8 +4,8 @@ This wrapper uses the uploaded LibreFace AffectNet ResNet checkpoint directly
 and exports predictions/libreface.csv
 """
 
-# Author: Ta Hoang Phuc Vo
-# Created on: 25 May, 2026
+# Author: Quoc Minh Luong
+# Created on: 11 Oct, 2026
 
 from __future__ import annotations
 from dataclasses import dataclass, field

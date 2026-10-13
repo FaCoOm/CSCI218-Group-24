@@ -65,10 +65,8 @@ def download_file(file_info: dict) -> None:
 
 
 def main():
-    print("=" * 60)
     print("  POSTER_V2 — Weight Downloader")
     print("  Source: official POSTER_V2 repository (Google Drive)")
-    print("=" * 60)
 
     check_gdown()
 
@@ -78,7 +76,6 @@ def main():
     print()
     print("All weights ready.  You can now run:")
     print("  python inference_wrapper.py --config config.yaml")
-    print("=" * 60)
 
 
 if __name__ == "__main__":

@@ -1,4 +1,6 @@
 """Unified FER evaluation framework."""
+# Author: Prakash Ghimire
+# Created on: October 06, 2026
 
 from .evaluator import Evaluator
 from .metrics import (

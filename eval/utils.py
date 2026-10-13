@@ -1,7 +1,6 @@
 """Constants, validation, and IO helpers for the unified FER evaluation framework."""
-
-# Author: Minh Quan Dang
-# Created on: 10 May 2026
+# Author: Prakash Ghimire
+# Created on: October 06, 2026
 
 from __future__ import annotations
 from pathlib import Path
