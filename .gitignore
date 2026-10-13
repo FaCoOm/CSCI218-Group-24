@@ -1,0 +1,33 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Model weights and checkpoints (too large for git)
+models/simple_cnn/checkpoints/
+models/poster_v2/checkpoint/
+models/poster_v2/pretrain/
+models/libreface/checkpoints_fm_resnet/
+models/libreface/checkpoints_rafdb/
+*.pt
+*.pth
+*.pth.tar
+
+# Dataset (do not version raw data)
+data/raf_db/
+
+# Predictions and generated results (optional, remove if you want these tracked)
+predictions/*.csv
+results/plots/*.png
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/

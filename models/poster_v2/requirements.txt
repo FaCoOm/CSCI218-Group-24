@@ -1,0 +1,18 @@
+# Install PyTorch FIRST with the CUDA 12.8 index (required for RTX 5070 / Blackwell):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+#
+# Then install the rest:
+numpy
+pandas
+Pillow
+matplotlib
+seaborn
+tqdm
+scikit-learn
+einops
+timm>=1.0.0
+thop
+pyyaml
+gdown
+# torchsampler is only needed for AffectNet-7 training (--data_type AffectNet-7):
+# torchsampler
