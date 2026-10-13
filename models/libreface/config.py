@@ -5,7 +5,7 @@ and exports predictions/libreface.csv
 """
 
 # Author: Quoc Minh Luong
-# Created on: 11 Oct, 2026
+# Created on: 11 October 2026
 
 from __future__ import annotations
 from dataclasses import dataclass, field
